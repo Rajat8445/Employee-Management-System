@@ -22,7 +22,7 @@ Label(root, text="Management System", font=("Arial", 16), bg="lightblue").place(
 
 Label(root, text="Version 1.0", font=("Arial", 12), bg="lightblue").place(x=400, y=200)
 
-Label(root, text="Developed by : Rajat Kumar & Abhishek Sharma", font=("Arial", 14), bg="lightblue").place(x=260, y=250)
+Label(root, text="Developed by : Rajat Kumar", font=("Arial", 14), bg="lightblue").place(x=345, y=250)
 
 Button(root, text="Continue", font=("Arial", 12), bg="#a29bfe", command = continueApp).place(x=375, y=300)
 
